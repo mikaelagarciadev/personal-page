@@ -2,7 +2,7 @@ body {
     text-align: center;
     font-family: Open , sans-serif;
     color: #ffffff;
-    background-color: #8a71c9;
+    background-color: #58b860;
     margin: 0;
     margin-bottom: 30px;
 }
@@ -17,7 +17,7 @@ h1 {
 }
 
 h2 {
-    color: #2a0074;
+    color: #055505;
     font-size: 40px;
 }
 
@@ -31,16 +31,16 @@ p {
     line-height: 1,5;
 }
 
-.titulo-verde{
-    color: #04ff9f
+.titulo-cinza{
+    color: #363e3b
+}
+
+.titulo-marrom{
+    color: #834e00
 }
 
 .titulo-vermelho{
-    color: #ff9e9e
-}
-
-.titulo-amarelo{
-    color: #ffe36d
+    color: #b03301
 }
 
 section{
@@ -61,7 +61,7 @@ section section{
 }
 
 a{
-    color: #99ffff;
+    color: #8deba9;
     font-weight: 700
 }
 ul{
@@ -71,8 +71,7 @@ ul{
 }
 
 .principal{
-    background-color: #FF6CB5;
-    height: 40px;
+    background-color: #1e9b39;
     max-width: 60%;
     margin: 0 auto;
 }
@@ -85,7 +84,7 @@ ul{
 .principal li{
     display: inline-block;
     line-height: 2.5;
-    margin: 0 89px;
+    margin: 0 20px;
 }
 
 form button{
